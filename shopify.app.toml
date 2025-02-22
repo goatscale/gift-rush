@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "a26040c553a465fef00db541636f29f6"
-application_url = "https://magic-household-flood-graduated.trycloudflare.com"
+application_url = "https://ty-beverage-locks-terror.trycloudflare.com"
 embedded = true
 name = "Gift Rush"
 handle = "gift-rush"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://magic-household-flood-graduated.trycloudflare.com/auth/callback",
-  "https://magic-household-flood-graduated.trycloudflare.com/auth/shopify/callback",
-  "https://magic-household-flood-graduated.trycloudflare.com/api/auth/callback"
+  "https://ty-beverage-locks-terror.trycloudflare.com/auth/callback",
+  "https://ty-beverage-locks-terror.trycloudflare.com/auth/shopify/callback",
+  "https://ty-beverage-locks-terror.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
