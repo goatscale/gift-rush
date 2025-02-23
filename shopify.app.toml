@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "a26040c553a465fef00db541636f29f6"
-application_url = "https://ty-beverage-locks-terror.trycloudflare.com"
+application_url = "https://procedure-pensions-topics-vids.trycloudflare.com"
 embedded = true
 name = "Gift Rush"
 handle = "gift-rush"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ty-beverage-locks-terror.trycloudflare.com/auth/callback",
-  "https://ty-beverage-locks-terror.trycloudflare.com/auth/shopify/callback",
-  "https://ty-beverage-locks-terror.trycloudflare.com/api/auth/callback"
+  "https://procedure-pensions-topics-vids.trycloudflare.com/auth/callback",
+  "https://procedure-pensions-topics-vids.trycloudflare.com/auth/shopify/callback",
+  "https://procedure-pensions-topics-vids.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
